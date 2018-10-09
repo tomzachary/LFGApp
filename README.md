@@ -1,0 +1,2 @@
+# LFGApp
+LFG App idea
